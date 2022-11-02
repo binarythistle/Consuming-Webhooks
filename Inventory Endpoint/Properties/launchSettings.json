@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Inventory_Endpoint": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7061",
+      "launchBrowser": false
+    }
+  }
+}
